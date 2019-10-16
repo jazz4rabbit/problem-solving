@@ -38,7 +38,7 @@ flags = [
 # language that the files to be compiled are written in. This is mostly
 # relevant for c++ headers.
 # For a C project, you would set this to 'c' instead of 'c++'.
-'-std=c++11',
+'-std=c++17',
 '-x',
 'c++',
 '-isystem',

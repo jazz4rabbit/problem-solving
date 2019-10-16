@@ -1,5 +1,5 @@
 CXX := clang++
-CXXFLAGS := -std=c++11
+CXXFLAGS := -std=c++17
 TARGET := a.out
 OBJECTS := main.o
 
